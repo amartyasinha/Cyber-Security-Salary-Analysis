@@ -13,9 +13,9 @@ The Word Cloud will enable one to know the most used word in the domain of Cyber
 The Analysis will use various python libraries and modules, including NumPy, pandas (for data analysis), matplotlib (for data visualization), and others.
 
 The following fields (columns) will be part of this analysis:
-
-| work_year | int |
+| Columns | datatype |
 | --- | --- |
+| work_year | int |
 | experience_level | string |
 | employment_type | string |
 | job_title | string |
