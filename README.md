@@ -1,4 +1,5 @@
-% Cyber-Security-Salary-Analysis
+<h1 align="center">Cyber-Security-Salary-Analysis</h1>
+
 # Chapter 1
 ## PROBLEM STATEMENT
 Cyber Security is one of the most critical domains in the IT sector. But, many people do not move into this domain due to the lack of knowledge about it. It also includes the pay scale in this domain in their location.
