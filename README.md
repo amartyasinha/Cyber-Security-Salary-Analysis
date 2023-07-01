@@ -1,7 +1,7 @@
 <h1 align="center">Cyber-Security-Salary-Analysis</h1>
 
-# Chapter 1
-## PROBLEM STATEMENT
+## Chapter 1
+### PROBLEM STATEMENT
 Cyber Security is one of the most critical domains in the IT sector. But, many people do not move into this domain due to the lack of knowledge about it. It also includes the pay scale in this domain in their location.
 
 The recent data breach that targeted giants like Uber and Rockstar games (causing colossal losses) has proved the need for more Cyber Security experts.
@@ -27,14 +27,14 @@ The following fields (columns) will be part of this analysis:
 | company_location | string |
 | company_size | string |
 
-# Chapter 2
-## OBJECTIVE
+## Chapter 2
+### OBJECTIVE
 The main objective of the analysis and visualization of Cyber Security Salaries is to make people in the IT field aware of the scope and career enhancements in this domain.
 
 It will also make people aware of the budget spent by different companies for cyber and data security. As discussed earlier in Problem Statement, even bigger companies like Uber are facing data breaches, which means a need to increase their Cyber Security Budget.
 
-# Chapter 3
-## STEPS TO BE USED FOR ANALYSIS
+## Chapter 3
+### STEPS TO BE USED FOR ANALYSIS
 The following steps will be followed during the analysis of Cyber Security Salaries. The steps may change with further work and analysis performed (by us).
 1. Data Cleaning & Preprocessing: This step will not take too much time as the dataset does not has uneven values, and every column will be used for further analysis.
 2. Comparative Analysis on different factors: Comparative Analysis will let us know the salary difference in different countries and companies.
